@@ -1,8 +1,8 @@
 {
-  "name": "aso",
-  "email": "sjdsj",
-  "contact": "dfjf",
-  "address": "sdjjf",
-  "companyName": "sdqfsajk",
-  "message": "fdsnjsf"
+  "name": "",
+  "email": "",
+  "contact": "",
+  "address": "",
+  "companyName": "",
+  "message": ""
 }
