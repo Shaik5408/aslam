@@ -1,8 +1,8 @@
 {
-  "name": "as",
-  "email": "aslamshauik@gmail.com",
-  "contact": "sdkk",
-  "address": "nsn",
-  "companyName": "dfnn",
-  "message": "aslam"
+  "name": "",
+  "email": "",
+  "contact": "",
+  "address": "",
+  "companyName": "",
+  "message": ""
 }
