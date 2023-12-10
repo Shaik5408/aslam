@@ -1,1 +1,8 @@
-File content
+{
+  "name": "as",
+  "email": "aslamshauik@gmail.com",
+  "contact": "sdkk",
+  "address": "nsn",
+  "companyName": "dfnn",
+  "message": "aslam"
+}
