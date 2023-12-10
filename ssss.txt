@@ -1,8 +1,8 @@
 {
-  "name": "asllam",
-  "email": "fffv",
-  "contact": "f vk",
-  "address": "vvdnnj",
-  "companyName": " vnm n",
-  "message": "ffg kf"
+  "name": "",
+  "email": "",
+  "contact": "",
+  "address": "",
+  "companyName": "",
+  "message": ""
 }
