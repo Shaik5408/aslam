@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "email": "",
-  "contact": "",
-  "address": "",
-  "companyName": "",
-  "message": ""
+  "name": "aslam",
+  "email": "aslamshauik@gmail.com",
+  "contact": "asjj",
+  "address": "sajj",
+  "companyName": "shjhj",
+  "message": "ashjhj"
 }
