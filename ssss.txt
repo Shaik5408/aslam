@@ -1,8 +1,8 @@
 {
   "name": "aslam",
   "email": "aslamshauik@gmail.com",
-  "contact": "asjj",
-  "address": "sajj",
-  "companyName": "shjhj",
-  "message": "ashjhj"
+  "contact": "7899",
+  "address": "hyd",
+  "companyName": "synetiks",
+  "message": "i am working as intern\n"
 }
