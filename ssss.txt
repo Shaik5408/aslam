@@ -1,8 +1,18 @@
-{
-  "name": "aslam",
-  "email": "aslamshauik@gmail.com",
-  "contact": "7899",
-  "address": "hyd",
-  "companyName": "synetiks",
-  "message": "i am working as intern\n"
-}
+[
+  {
+    "name": "aslam",
+    "email": "aslamshauik@gmail.com",
+    "contact": "7899",
+    "address": "hyd",
+    "companyName": "synetiks",
+    "message": "i am working as intern\n"
+  },
+  {
+    "name": "Mohd Aslam",
+    "email": "aslamshaik5408@gmail.com",
+    "contact": "",
+    "address": "",
+    "companyName": "",
+    "message": ""
+  }
+]
