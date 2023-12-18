@@ -14,5 +14,13 @@
     "address": "",
     "companyName": "",
     "message": ""
+  },
+  {
+    "name": "umar",
+    "email": "umar@123gmail.com",
+    "contact": "5",
+    "address": "bidar",
+    "companyName": "Synetiks",
+    "message": "i am intern init"
   }
 ]
