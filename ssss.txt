@@ -22,5 +22,13 @@
     "address": "bidar",
     "companyName": "Synetiks",
     "message": "i am intern init"
+  },
+  {
+    "name": "Rizwan",
+    "email": "rizwan@gmail.com",
+    "contact": "9164925971",
+    "address": "bidar",
+    "companyName": "rizwan construction",
+    "message": "he is the civil engineer"
   }
 ]
