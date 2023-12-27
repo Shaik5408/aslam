@@ -38,5 +38,13 @@
     "address": "bidar",
     "companyName": "synetiks",
     "message": "i am  init"
+  },
+  {
+    "name": "",
+    "email": "",
+    "contact": "",
+    "address": "",
+    "companyName": "",
+    "message": ""
   }
 ]
