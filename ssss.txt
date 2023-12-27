@@ -30,5 +30,13 @@
     "address": "bidar",
     "companyName": "rizwan construction",
     "message": "he is the civil engineer"
+  },
+  {
+    "name": "bhai ",
+    "email": "aslamshauik@gmail.com",
+    "contact": "789977845",
+    "address": "bidar",
+    "companyName": "synetiks",
+    "message": "i am  init"
   }
 ]
